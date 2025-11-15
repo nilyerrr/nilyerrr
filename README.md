@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="[https://i.imgur.com/dTYwdG1.gif](https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A9AF7&width=435&lines=Welcome+to+nilyerrr's+home;cybersecurity+student)" alt="Welcome!" width="300"/>
 
 </div>
 
